@@ -84,6 +84,11 @@ KEY = '5CV5MVGpfuldYKVtjjijmZlJh9FrB1Aw'
 ID = '5OF34891'
 PUBLIC_API_BASE = 'https://api.public.com'
 
+alt public api
+const PUBLIC_API_KEY = 'jqxXdzYHWIZOH1QJLYRJ3DN7PJocdLzL';
+const PUBLIC_API_ID = '5OF34891';
+const PUBLIC_API_BASE = 'https://api.public.com';
+
 to run optionchaintest.js
 node option-chain-test/optionchaintest.js
 to run fullbacktest.js
